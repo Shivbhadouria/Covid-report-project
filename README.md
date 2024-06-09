@@ -1,7 +1,8 @@
 🌐 Covid-19 Prediction and Reporting with Azure Data Factory
 
 
-![Uploading Screenshot 2024-06-04 at 5.50.15 PM.png…]()
+
+<img src="adf.png">
 
 
 
