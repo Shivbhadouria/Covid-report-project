@@ -1,6 +1,8 @@
 🌐 Covid-19 Prediction and Reporting with Azure Data Factory
 
 
+![Uploading Screenshot 2024-06-04 at 5.50.15 PM.png…]()
+
 
 
 Welcome to the Covid-19 Prediction and Reporting project repository! This project leverages Azure Data Factory to build a comprehensive data pipeline for ingesting, transforming, and analyzing Covid-19 data.
@@ -27,17 +29,7 @@ Reporting: Visualize data with PowerBI.
 📋 Prerequisites
 Basic knowledge of SQL
 Azure account setup
-🛠 Installation
-Clone the repository.
-bash
-Copy code
-git clone https://github.com/yourusername/covid19-prediction-reporting.git
-cd covid19-prediction-reporting
-Set up the Azure environment by following the course modules.
-Install the required Python packages.
-bash
-Copy code
-pip install -r requirements.txt
+
 📚 Course Structure
 
 Environment Setup
@@ -47,26 +39,7 @@ Configuring Azure Data Factory
 Data Ingestion
 Ingesting data from Blob Storage
 Using HTTP Connector
-Sample Ingestion Code:
-python
-Copy code
-import azure.datalake.store
-# Code to connect and ingest data
-Data Flow
-Data Preparation with Azure Data Factory
-Transformations and Activities
-Sample Data Flow:
-python
-Copy code
-# Sample data flow configuration
-Analysis
-Analyzing data with Azure Databricks
-Implementing Machine Learning Models
-Sample Analysis Code:
-python
-Copy code
-from pyspark.sql import SparkSession
-spark = SparkSession.builder.appName("Covid19Analysis").getOrCreate()
+
 # Code for data analysis
 Orchestration
 Pipeline Monitoring and Management
